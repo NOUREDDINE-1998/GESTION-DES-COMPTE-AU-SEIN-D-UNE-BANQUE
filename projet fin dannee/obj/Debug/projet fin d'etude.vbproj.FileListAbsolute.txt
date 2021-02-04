@@ -1,0 +1,162 @@
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\bin\Debug\projet fin d'etude.exe.config
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\bin\Debug\projet fin d'etude.exe
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\bin\Debug\projet fin d'etude.pdb
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\bin\Debug\projet fin d'etude.xml
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet fin d'etude.vbprojAssemblyReference.cache
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet_fin_d_etude.Form1.resources
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet_fin_d_etude.Resources.resources
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet fin d'etude.vbproj.GenerateResource.cache
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet fin d'etude.vbproj.CoreCompileInputs.cache
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet fin d'etude.exe
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet fin d'etude.xml
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet fin d'etude.pdb
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet_fin_d_etude.Form2.resources
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet_fin_d_etude.Form3.resources
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet_fin_d_etude.Form4.resources
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet_fin_d_etude.Form5.resources
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet_fin_d_etude.Form6.resources
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet_fin_d_etude.Form7.resources
+D:\projet fin d annee\projet fin d'etude\projet fin d'etude\obj\Debug\projet_fin_d_etude.Form8.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe.config
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.pdb
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.xml
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbprojAssemblyReference.cache
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form5.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form1.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form2.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form3.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form4.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form6.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form7.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form8.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Resources.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.GenerateResource.cache
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.CoreCompileInputs.cache
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.exe
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.xml
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.pdb
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe.config
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbprojAssemblyReference.cache
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form5.resources
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form1.resources
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form2.resources
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form3.resources
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form4.resources
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form6.resources
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form7.resources
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form8.resources
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Resources.resources
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.GenerateResource.cache
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.CoreCompileInputs.cache
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.exe
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.xml
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.pdb
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.pdb
+\\192.168.1.2\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.xml
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form9.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form10.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form11.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form12.resources
+D:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form13.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\base donnee banque.accdb
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe.config
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.pdb
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.xml
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbprojAssemblyReference.cache
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form5.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form1.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form10.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form11.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form12.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form13.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form2.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form3.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form4.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form6.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form7.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form8.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form9.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Resources.resources
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.GenerateResource.cache
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.CoreCompileInputs.cache
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.exe
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.xml
+C:\Users\azddine\Desktop\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.pdb
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\base donnee banque.accdb
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe.config
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.pdb
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.xml
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbprojAssemblyReference.cache
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form5.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form1.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form10.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form11.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form12.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form13.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form2.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form3.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form4.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form6.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form7.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form8.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form9.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Resources.resources
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.GenerateResource.cache
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.CoreCompileInputs.cache
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.exe
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.xml
+E:\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.pdb
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\base donnee banque.accdb
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe.config
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.pdb
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.xml
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbprojAssemblyReference.cache
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form5.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form1.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form10.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form11.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form12.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form13.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form2.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form3.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form4.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form6.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form7.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form8.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form9.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Resources.resources
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.GenerateResource.cache
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.CoreCompileInputs.cache
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.exe
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.xml
+D:\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.pdb
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\base donnee banque.accdb
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe.config
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.exe
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.pdb
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\bin\Debug\projet fin d'etude.xml
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbprojAssemblyReference.cache
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form5.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form1.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form10.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form11.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form12.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form13.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form2.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form3.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form4.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form6.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form7.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form8.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Form9.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet_fin_d_etude.Resources.resources
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.GenerateResource.cache
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.vbproj.CoreCompileInputs.cache
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.exe
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.xml
+D:\backup\Nordine\Nouveau dossier (2)\projet fin d annee\PROJET vb\projet fin d annee\projet fin d'annee\projet fin dannee\obj\Debug\projet fin d'etude.pdb

@@ -1,0 +1,216 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+projet fin d'etude
+</name>
+</assembly>
+<members>
+<member name="T:projet_fin_d_etude.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:projet_fin_d_etude.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:projet_fin_d_etude.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:projet_fin_d_etude.My.Resources.Resources.User_login_man_profile_account">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.agenceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.clientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.compteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.operationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.usersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.requeteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.Requête1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.agenceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.clientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.compteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.operationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.usersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.requeteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.Requête1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.agenceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.clientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.compteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.operationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.usersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.requeteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSet.Requête1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.agenceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.clientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.compteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.operationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.usersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.requeteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.Requête1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(projet_fin_d_etude.base_donnee_banqueDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(projet_fin_d_etude.base_donnee_banqueDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(projet_fin_d_etude.base_donnee_banqueDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.TableAdapterManager.UpdateAll(projet_fin_d_etude.base_donnee_banqueDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:projet_fin_d_etude.base_donnee_banqueDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
